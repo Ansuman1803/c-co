@@ -41,4 +41,5 @@ int main()
     cout << "the number of occurrences is " << y - j + 1 << endl;
 
     return 0;
+    // let me ceed
 }
